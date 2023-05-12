@@ -1,5 +1,5 @@
 # 💫 About Me:
-I,m currently  working on Data Analytics.<br>I,m looking to collab on data engineering projects.<br>I,m looking for help with Data Visualization.<br>I'm currently learning use of Web Scraping, Data Visualization and Dashboarding.<br>Ask me about Data Warehousing and Data Cleaning in Data Analytics.<br>Intrested in Entrepreneurship and startups.
+I'm currently  working on Data Analytics.<br>I'm looking to collab on data engineering projects.<br>I'm looking for help with Data Visualization.<br>I'm currently learning use of Web Scraping, Data Visualization and Dashboarding.<br>Ask me about Data Warehousing and Data Cleaning in Data Analytics.<br>Intrested in Entrepreneurship and startups.
 
 
 ## 🌐 Socials:
